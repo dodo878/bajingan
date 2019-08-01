@@ -49,11 +49,12 @@ echo "\033[31;1m       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo "\033[33;1m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "\033[32;1mAUTHOR   : dodo878"
-echo "\033[32;1mGITHUB   : https://github.com/dodo878/tools"
+echo "\033[35;1m <[========================================[>"
+echo "\033[32;1m AUTHOR : dodo878"
+echo "\033[32;1m GITHUB : https://github.com/dodo878/bajingan"
+echo "\033[35;1m <[========================================[>"
 echo "\033[33;1m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
-echo "\033[34;1m[============================[>"
 sleep 1
 echo ""
 echo "\033[32;1mSilahkan Pilih Tools Yang mau Kamu pake:)?:"
